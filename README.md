@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **Any Frontend Projects**
 
-- 🤝 I'm looking for help with **DSA in JavaScript**
+- 🤝 I'm looking for help with **DSA with JavaScript**
 
 - 💬 Ask me about **Web Development Journey**
 
