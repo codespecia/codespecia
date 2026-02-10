@@ -2,7 +2,7 @@
 
 ### Becoming a passionate full stack developer from Kolkata, India
 
-- 🔭 I'm currently working on **Xperts Project using HTML and CSS**
+- 🔭 I'm currently working on **Xperts Project using HTML, CSS and JS**
 
 - 🌱 I'm currently learning **JavaScript**
 
