@@ -47,3 +47,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
 </p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
