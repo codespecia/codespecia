@@ -33,7 +33,7 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,js" alt="knowledges"/>
-<img src="https://cdn.simpleicons.org/framer" alt="tools"/>
+<img src="https://cdn.simpleicons.org/framer" alt="tools" width="40" height="40"/>
 
 </p>
 
