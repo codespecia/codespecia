@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development Journey**
 
-- 📫 Mail me: **rakiburrahman.contact@gmail.com**
+- 📫 Contact me: **rakiburrahman.contact@gmail.com**
 
 - 👨‍💻 Here is my Portfolio: **[https://codespecia.in](https://codespecia.in)**
 
