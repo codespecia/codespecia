@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakibur Rahman
 
-### Becoming a passionate full stack developer from Kolkata, India
+### Becoming a passionate full stack developer
 
 - 🔭 I'm currently working on **Xperts Project using HTML, CSS and JS**
 
