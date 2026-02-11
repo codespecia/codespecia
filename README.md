@@ -8,8 +8,6 @@
 
 - 👯 I'm looking to collaborate on **Any Frontend Projects**
 
-- 🤝 I'm looking for help with **DSA with JavaScript**
-
 - 💬 Ask me about **Web Development Journey**
 
 - 📫 Mail me: **rakiburrahman.contact@gmail.com**
