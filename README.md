@@ -31,10 +31,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,js" alt="knowledges"/>
-<img src="https://cdn.simpleicons.org/framer" alt="tools" width="45" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 </p>
 
 <p align="center">
